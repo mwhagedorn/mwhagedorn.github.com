@@ -7,7 +7,10 @@ tagline: My Github Stuff
 
 My Companies
 
+My Bio (of sorts) [Here](http://appsdynamic.com/about.html)
+
 The Original [Silverchair Solutions](http://www.silverchairsolutions.com) 
+
 The Newer One [Applied Software Dynamics](http://www.appsdynamic.com) 
 
 Both are still valid
